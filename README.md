@@ -52,7 +52,7 @@
 
 <div align="center">
   <!-- Card de Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelAngeloChaves&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelAngeloChaves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   
   <!-- Card de Linguagens -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelAngeloChaves&layout=compact&theme=radial" alt="Linguagens mais usadas" />
