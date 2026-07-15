@@ -47,19 +47,17 @@
 | **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
+<!--
+    ### 📈 Git Status
 
-### 📈 Git Status
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelAngeloChaves&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelAngeloChaves&show_icons=true&theme=radical)
-
-<div align="center">
-  <!-- Card de Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelAngeloChaves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  
-  <!-- Card de Linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelAngeloChaves&layout=compact&theme=radial" alt="Linguagens mais usadas" />
-</div>
-
+    <div align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=miguelAngeloChaves&show_icons=true&theme=dark" />
+    
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelAngeloChaves&layout=compact&theme=radial"  />
+    </div>
+-->
 ---
 
 ### 📚 Estudos e Certificações
